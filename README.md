@@ -1,2 +1,4 @@
-# Forward Kinematics
-运动学基本资料
+# Kinematics
+## elementary transform sequence (ETS)
+## Forward Kinematics
+
